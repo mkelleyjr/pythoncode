@@ -1,0 +1,27 @@
+
+Some of the items that I am using:
+
+VSCode 
+
+    Extensions
+        Beautify
+        Bracket Pair Colorizer
+        Code Runner
+        Dracula Official
+        GitLens
+        Material Icon Theme
+        Material Theme
+        Night Owl
+        Python
+        Python for VSCode
+        Python Indent
+        Shades of Purple
+        Trailing Spaces
+        vscode-icons
+
+    iTerm 2
+
+    Font set to 18 - Foreground color set to 0 - 255 - 0
+
+    Currently have been coding these on a Macbook Air. 
+    
